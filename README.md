@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ttvn91
+- 👀 I’m interested in Smart home and AI assistants
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 Reach me ttvn91 on Skype
